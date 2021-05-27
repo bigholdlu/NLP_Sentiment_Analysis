@@ -1,4 +1,4 @@
-# Stock_Prediction_Sentiment_Analysis
+# NLP_Sentiment_Analysis
 This is a project of Forecasting DJIA index trend with news headlines using BERT and LSTM
 
 The pipeline involves two steps, first step is preprocessing the two raw dataset,'Gaurdian_news' and 'Reuters', and combine into a single csv file containing all headlines 'Data.csv'.
